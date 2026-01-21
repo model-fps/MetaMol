@@ -1,1 +1,1 @@
-The data files are available at https://drive.google.com/drive/folders/1mA6vFq1xyB4Cyipo3fYXmyrF-vP70ZjL?usp=drive_link and the model files are at https://drive.google.com/drive/folders/1f-dtfZvNVtWZ9uX7dAWhcZHUCWiGQSMP?usp=drive_link
+The data and model files are available at https://drive.google.com/drive/folders/1mA6vFq1xyB4Cyipo3fYXmyrF-vP70ZjL?usp=drive_link and  https://drive.google.com/drive/folders/1f-dtfZvNVtWZ9uX7dAWhcZHUCWiGQSMP?usp=drive_link.
